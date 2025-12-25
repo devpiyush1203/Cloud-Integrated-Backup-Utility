@@ -1,0 +1,6 @@
+# Isme wo files likhein jo GitHub par nahi bhejni (jaise *.log).
+
+*.log
+__pycache__/
+.env
+*.tar.gz

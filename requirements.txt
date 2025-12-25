@@ -1,0 +1,5 @@
+# Isme libraries ke naam likhein (boto3 aur flask).
+# Ise use kaise karte hain? Jab bhi koi naya person aapka project setup karega, wo terminal mein ye command chalayega: pip install -r requirements.txt
+
+boto3
+flask
